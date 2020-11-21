@@ -17,6 +17,7 @@ KAUF_46801234_ord16112345_001_wknA1XB5U_dat20200401_id123459204.pdf
 Just download the consors_unname.py and drag and drop your documents on it. 
 
 (!) BE CAREFUL -> They'll be converted / renamed automatically (!)
+
 Make sure you'll have them backup'ed. 
 
 **Requirements:**
